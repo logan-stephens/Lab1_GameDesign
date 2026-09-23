@@ -4179,6 +4179,7 @@ MonoBehaviour:
   enemies: {fileID: 479098196}
   HUDscore: {fileID: 459047436}
   GameOver: {fileID: 1614010800}
+  gameOverScoreText: {fileID: 392089150}
 --- !u!61 &2058847296
 BoxCollider2D:
   m_ObjectHideFlags: 0
